@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182612044729",
+    "project_id": "chat-project-ipssi",
+    "storage_bucket": "chat-project-ipssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182612044729:android:99481dfd4b4fa4cdd92468",
+        "android_client_info": {
+          "package_name": "com.example.chatipssi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182612044729-t7ns3a31gfisvu0q59ofhqpj3dpeqiqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY9Vwy8tkOvsDiqDrGsR-HjYxxfKvQA24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182612044729-t7ns3a31gfisvu0q59ofhqpj3dpeqiqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
